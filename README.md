@@ -1,11 +1,11 @@
 # jasontv
 waipn
 l2tp 环境搭建
-1.使用wget  https://github.com/ajaxly/jasontv/new/main/l2tp.sh 下载l2tp.sh
+1.使用wget  https://github.com/ajaxly/jasontv/blob/main/l2tp.sh 下载l2tp.sh
 
-2. 查询位置：find / -name "l2tp.sh" （通常在当前目录下） 运行  sh l2tp.sh
+2. 查询位置：find / -name "l2tp.sh" （通常在当前目录下） 
 
-3.确定运行权限：chmod a+x l2tp.sh
+3.确定运行权限：chmod a+x l2tp.sh 运行  sh l2tp.sh
 
 4.执行指定操作 对秘钥 用户名 密码输入 确定即可  
 
